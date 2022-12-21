@@ -1,0 +1,8 @@
+android:id="@+id/line1"
+
+
+
+
+<button>
+  android:background="@drawable/buttong"
+</button>
